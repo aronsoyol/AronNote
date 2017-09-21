@@ -1,18 +1,10 @@
----
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: AronNote Home
-layout: default
----
+## AronNote
+
 - 专门为传统蒙古文而诞生的竖排纯文本编辑器
 - 内嵌蒙古文字体，可以再没有创痛蒙古文字体的环境正常显示
 - 可以作为.net 控件调用
 - 蒙古文菜单
 - 显示UNICODE代码
-
-### 下载 <a href="aronnote.zip" class="btn btn-lg btn-outline"><i class="glyphicon glyphicon-download-alt "></i> Download</a>
-
 
 {: .center}
 ![adfadf]({{ site.baseurl }}/assets/img/1.png)
