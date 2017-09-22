@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+
+{% include head.html %}
+
+<body>
+
+  {% include header.html %}
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+    <div id="slider_wrapper">
+        <ul class="bxslider">
+            <li><img src="{{"/assets/img/1.png" | relative_url}}" /></li>
+            <li><img src="{{"/assets/img/2.png" | relative_url}}" /></li>
+            <li><img src="{{"/assets/img/3.png" | relative_url}}" /></li>
+            <li><img src="{{"/assets/img/4.png" | relative_url}}" /></li>
+        </ul></div>
+
+      {{ content }}
+    </div>
+  </main>
+
+
+
+</body>
+
+</html>

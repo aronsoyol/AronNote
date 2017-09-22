@@ -23,7 +23,20 @@
     color: $grey-color-dark;
   }
 }
+#slider_wrapper{
+  /* box-shadow */
+box-shadow:6px 7px 11px -4px #949494;
+-moz-box-shadow:6px 7px 11px -4px #949494;
+-webkit-box-shadow:6px 7px 11px -4px #949494;
 
+/* border-radius */
+border-radius:0px 0px 0px 0px ;
+-moz-border-radius:0px 0px 0px 0px ;
+-webkit-border-radius:0px 0px 0px 0px ;
+
+/* border */
+border:1px solid #cccccc;
+}
 .site-nav {
   float: right;
   line-height: 56px;
