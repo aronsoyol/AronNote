@@ -13,6 +13,7 @@ layout: index
 - 无需安装，绿色软件
 - 内嵌传统蒙古文字体，**没有蒙文字体的环境也能正常显示**
 - 可以作为.net 控件调用(如有需要请私信作者)
+    - 案例： 德力海打字练习软件 [http://www.delehi.com/cn/1069.html](http://www.delehi.com/cn/1069.html)
 - 蒙古文菜单
 - UNICODE代码显示
 
@@ -20,6 +21,6 @@ layout: index
 <a href="aronnote.zip" class="btn btn-lg btn-outline"><i class="glyphicon glyphicon-download-alt "></i> Download</a>
 
 
-## 作者
-- 姓名： 阿荣苏乙拉 ᠠᠷᠢᠭᠤᠨᠰᠤᠶᠤᠯ
+## 联系
 - email： aronsoyol@gmail.com
+- qq:254473971

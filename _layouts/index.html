@@ -8,13 +8,13 @@
   {% include header.html %}
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
-    <div id="slider_wrapper">
+    <div id="slider_wrapper" id="slider_wrapper">
         <ul class="bxslider">
-            <li><img src="{{"/assets/img/1.png" | relative_url}}" /></li>
-            <li><img src="{{"/assets/img/2.png" | relative_url}}" /></li>
-            <li><img src="{{"/assets/img/3.png" | relative_url}}" /></li>
-            <li><img src="{{"/assets/img/4.png" | relative_url}}" /></li>
-        </ul></div>
+            <li><img title="AronNote 2.0" src="{{"/assets/img/1.png" | relative_url}}" /></li>
+            <li><img title="选择字体" src="{{"/assets/img/2.png"  | relative_url}}" /></li>
+            <li><img title="蒙古文菜单" src="{{"/assets/img/3.png"  | relative_url}}" /></li>
+        </ul>
+    </div>
 
       {{ content }}
     </div>
